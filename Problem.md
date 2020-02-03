@@ -1,0 +1,12 @@
+## 2020-02-03 스터디 문제
+
+### [SWEA-8888. 시험](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW45RuSae2gDFAQ7&categoryId=AW45RuSae2gDFAQ7&categoryType=CODE)
+
+### [SWEA-8500. 극장 좌석](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWz5yIfq74QDFARQ&categoryId=AWz5yIfq74QDFARQ&categoryType=CODE>)
+
+### [SWEA-6781. 삼삼 트리플 게임](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgqpQV6r8gDFAW0&categoryId=AWgqpQV6r8gDFAW0&categoryType=CODE#;return%20false;>)
+
+### [SWEA-9088. 다이아몬드](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW7Oktj6WMQDFAWY&categoryId=AW7Oktj6WMQDFAWY&categoryType=CODE>)
+
+### [SWEA-8049. 폭탄 감식반](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWv0_-j6aRsDFASy&categoryId=AWv0_-j6aRsDFASy&categoryType=CODE>)
+
