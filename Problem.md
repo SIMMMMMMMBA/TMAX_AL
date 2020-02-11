@@ -8,7 +8,7 @@
 
 ### [SWEA-9088. 다이아몬드](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW7Oktj6WMQDFAWY&categoryId=AW7Oktj6WMQDFAWY&categoryType=CODE>)
 
-### 
+
 
 ## 2020-02-03 스터디 문제
 
