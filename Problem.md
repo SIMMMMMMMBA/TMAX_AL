@@ -1,3 +1,15 @@
+## 2020-02-17 스터디 문제
+
+### [SWEA-6900. 주혁이의 복권 당첨](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWh4FhG6Ei4DFAXp&categoryId=AWh4FhG6Ei4DFAXp&categoryType=CODE>)
+
+### [SWEA-7732. 시간개념](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWrDLM0aRA8DFARG&categoryId=AWrDLM0aRA8DFARG&categoryType=CODE>)
+
+### [SWEA-9229. 한빈이와 Spot Mart](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN&categoryId=AW8Wj7cqbY0DFAXN&categoryType=CODE>)
+
+### [SWEA-7853. 오타](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWttUKkq5hQDFASy&categoryId=AWttUKkq5hQDFASy&categoryType=CODE>)
+
+
+
 ## 2020-02-10 스터디 문제
 
 ### [SWEA-3408. 세가지 합 구하기](<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWEbPukqySUDFAWs&categoryId=AWEbPukqySUDFAWs&categoryType=CODE>)
